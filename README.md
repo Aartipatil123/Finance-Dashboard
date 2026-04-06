@@ -1,16 +1,30 @@
-# React + Vite
+# Finance Dashboard – Frontend Developer Intern Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Project Overview
+This project was developed for the **Zorvyn Frontend Developer Intern Assessment**. It features a **modern and interactive finance dashboard** created using React and Tailwind CSS. The dashboard is fully responsive and designed with user-friendly UI/UX.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
+- Responsive dashboard layout  
+- Navbar with search bar, dark/light mode toggle, and user profile  
+- Finance charts (Line chart, Pie chart) using Chart.js  
+- Interactive buttons with hover effects  
+- Modular React functional components for easy maintenance  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+- **Frontend:** React, Tailwind CSS, HTML5, CSS3, JavaScript  
+- **Charts:** Chart.js  
+- **Version Control:** Git, GitHub  
+
+---
+
+## Project Structure
